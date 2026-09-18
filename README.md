@@ -46,18 +46,20 @@ Persistence	Browser `localStorage`
 No bundler, no `npm install`, no build step — everything runs straight from the browser.
 📁 Project Structure
 ```
-meridian-task8.html   → the entire app (HTML + CSS + JS in one file)
+index.html   → HTML
+style.css   → CSS
+script.js   → JavaScript
 images/               → destination, service, and review photos referenced by the app
 README.md             → this file
 ```
 🚀 Getting Started
 Clone or download this repository.
-Make sure the `images/` folder sits next to `meridian-task8.html`.
-Open `meridian-task8.html` directly in any modern browser — no install, no server, no build step required.
+Make sure the `images/` folder sits next to `index.html`.
+Open `index.html` directly in any modern browser — no install, no server, no build step required.
 ```bash
 git clone <this-repo-url>
 cd meridian
-open meridian-task8.html   # or double-click it
+open index.html   # or double-click it
 ```
 ✅ Task 8 — What Changed in This Final Version
 This final submission combined every previous week's code without altering it, then closed out the remaining Week 8 requirements:
