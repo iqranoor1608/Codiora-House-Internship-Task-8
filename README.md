@@ -150,7 +150,6 @@ Verified after every change: no duplicate element IDs, all HTML tags balanced, J
 
 **Live Project Link:** [https://iqra-noor-codiora-house-final-task-8.netlify.app](https://iqra-noor-codiora-house-final-task-8.netlify.app)
 
-**Demo Video:** Task 8 Meridian Demo.mp4
 
 <div align="center">
 <br>
